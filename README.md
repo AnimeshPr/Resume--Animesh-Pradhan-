@@ -3,8 +3,7 @@
 ### 4th Year B.E Student,
 
 - CMR Institute Of Technology
-- Programming Languages: Python, C++,C
-- Database: SQL 
+
 
 ---
 
