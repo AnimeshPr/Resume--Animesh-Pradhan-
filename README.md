@@ -24,11 +24,11 @@
     - Marks Scored - 7.04  CGPA (till 6th SEM)
     
 - **12th CBSE : Physics Chemistry & Maths** 
-    - KV ASC Centre, Bangalore  2017 to 2018    
+    - KV ASC Centre, Bangalore  (2017 to 2018)    
     - Marks Scored - 69.4%  
     
-- **10th CBSE : Sacred Heart School, Sitamarhi**,
-    - KV ASC Centre, Bangalore 2015 to 2016     
+- **10th CBSE **,
+    - KV ASC Centre, Bangalore (2015 to 2016)     
     - Marks Scored - 9.8  CGPA
     
 ---
