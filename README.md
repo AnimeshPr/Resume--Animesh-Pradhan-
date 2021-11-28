@@ -21,7 +21,7 @@
 
 - **Bachelor Of Eng. : Electronics & comm.**
     - CMR Institute Of Technology, Bangalore, 07/2018 to 07/2022   
-    - Marks Scored - 7.04  CGPA (6th SEM)
+    - Marks Scored - 7.04  CGPA (till 6th SEM)
     
 - **12th CBSE : Physics Chemistry & Maths** 
     - KV ASC Centre, Bangalore  2017 to 2018    
@@ -69,7 +69,7 @@
 
 ### HOBBIES
 
-- Curious about astronomy
+- Astronomy
 - Basketball
 - Video Games
 
