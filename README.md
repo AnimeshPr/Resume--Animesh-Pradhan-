@@ -27,7 +27,7 @@
     - KV ASC Centre, Bangalore  (2017 to 2018)    
     - Marks Scored - 69.4%  
     
-- **10th CBSE **,
+- **10th CBSE :**,
     - KV ASC Centre, Bangalore (2015 to 2016)     
     - Marks Scored - 9.8  CGPA
     
